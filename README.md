@@ -14,7 +14,7 @@
 
 <!--Biografia curta-->
 - Graduando em Análise e Desenvolvimento de Sistemas :man_student:.
-- Moro em Bombas-SC.
+- Moro em Florianópolis-SC.
  
 <!--Gráfico do GitHub-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoferrazsantana&show_icons=true&theme=tokyonight)
